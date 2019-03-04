@@ -1,4 +1,5 @@
 //This code is for everyone. Could go in common.js
+//Changes for request
 MusicMachine = new Mongo.Collection("musicMachine");
 
 
